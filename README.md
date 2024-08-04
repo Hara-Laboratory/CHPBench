@@ -8,7 +8,7 @@ The implementation results for each RTL-HLS pair is located in the implementatio
 
 This repository also contains minor submodules built with HLS comparing to RTL counter-part, however for submodules some sets of build does not have completely equivalent logic or behavior, it's only for purpose of understanding how HLS work at level of very simple behaviors.
 
-
+================================================================================================================
 For pairing manner we also listed the original RTL designs from other developers:
 
 For all SIMON's design and SPECK's design are from this open-source repository: https://github.com/vernamlab/Lightweight-Threshold-Implementations/tree/master
