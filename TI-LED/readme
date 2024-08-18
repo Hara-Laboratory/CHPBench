@@ -1,0 +1,3 @@
+The TI implementation of LED involves modifying the round function to ensure secure operation at the bit level. This modification includes the introduction of a one-bit register to temporarily store intermediate values, which helps prevent unintended leakages. By operating on individual bits, the implementation effectively maintains security while processing all 64 bits of the data.
+For further details of RTL design, please refer to https://github.com/Secure-Embedded-Systems/Open-Source-Threshold-Implementation-of-LED-Block-Cipher, and "Dimming Down LED: An Open-source Threshold Implementation on Light Encryption Device (LED) Block Cipher", https://arxiv.org/abs/2108.12079.
+The HLS implementation is a nearly complete equivalent representation in C.
