@@ -1,0 +1,2 @@
+A bit-serialized 3-TI SIMON implementation, the very details of design can be found in "Silent Simon: A threshold implementation under 100 slices". http://ieeexplore.ieee.org/abstract/document/7140227/
+The HLS implementation is a nearly complete equivalent representation in C.
