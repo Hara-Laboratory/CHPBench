@@ -1,0 +1,3 @@
+A bit-serialized implementation of SPECK has been proposed to achieve minimal area footprint while maintaining reasonable performance. In this approach, the arithmetic addition between two n-bit words is implemented as n serialized one-bit additions.
+For further detals of RTL design, please refer to "SpecTre: A Tiny Side-Channel Resistant Speck Core for FPGAs", https://link.springer.com/chapter/10.1007/978-3-319-54669-8_5.
+The HLS implementation is a nearly complete equivalent representation in C.
