@@ -1,0 +1,3 @@
+A bit-serialized 2-TI SIMON implementation, inspired by the First-in-First-Out-based 3-TI bit-serialized SIMON introduced in prior work, has been developed to achieve a smaller implementation size while maintaining security.
+For further details of RTL implementation please check https://github.com/vernamlab/Lightweight-Threshold-Implementations/tree/master.
+The HLS implementation is a nearly complete equivalent representation in C.
