@@ -2,7 +2,6 @@ This is a repository containing 5 sets of TI-cipher comparison between HLS and R
 The C++ codes aim to simulate the exact same behavior from verilog designs, does not provide the most efficient and optimized style of C coding for HLS to generate best performance circuit.
 For the purpose of not letting HLS change too much from RTL design, pipelining for loops are turned off in C-Synthesis.
 
-The implementation results for each RTL-HLS pair is located in the implementation_result.pdf.
 
 
 
