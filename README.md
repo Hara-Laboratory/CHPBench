@@ -14,3 +14,5 @@ For pairing manner we also listed the original RTL designs from other developers
 For all SIMON's design and SPECK's design are from this open-source repository: https://github.com/vernamlab/Lightweight-Threshold-Implementations/tree/master
 
 For TI-LED's design please refer to: https://github.com/Secure-Embedded-Systems/Open-Source-Threshold-Implementation-of-LED-Block-Cipher
+
+If you have any quesiton please contact jingyu.zheng@cad.ict.e.titech.ac.jp.
