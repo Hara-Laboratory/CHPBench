@@ -16,3 +16,8 @@ For all SIMON's design and SPECK's design are from this open-source repository: 
 For TI-LED's design please refer to: https://github.com/Secure-Embedded-Systems/Open-Source-Threshold-Implementation-of-LED-Block-Cipher
 
 If you have any quesiton please contact jingyu.zheng@cad.ict.e.titech.ac.jp.
+
+Licensing: This project is open for any non-commercial purpose.
+
+Copyright (c) 2024 Hara Laboratory.
+
